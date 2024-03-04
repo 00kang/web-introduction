@@ -4,4 +4,4 @@
 
 | 1단계 결과물                                              | 2단계 결과물                                                                                                        |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <img width="300px" src="./images/web-introduction-1.png"> | <img width="200px" src="./images/web-introduction-2.png"> <img width="200px" src="./images/web-introduction-3.png"> |
+| <img width="500px" src="./images/web-introduction-1.png"> | <img width="350px" src="./images/web-introduction-2.png"> <img width="300px" src="./images/web-introduction-3.png"> |
